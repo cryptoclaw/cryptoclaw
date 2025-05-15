@@ -1,22 +1,5 @@
-<!-- ![alt text](./top.svg)
-<img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
-
-<div style="position: relative; width: 100%; margin: auto;">
-  <!-- ภาพวิวด้านล่าง -->
-  <img src="./top3.png" 
-       style="position: absolute; z-index 1;">
-
-  <!-- คลื่นด้านบน (ใช้เฉพาะคลื่น มองทะลุได้ส่วนอื่น) -->
-  <img src="./top2.png" 
-       style="
-         position: absolute;
-         opacity: 1;
-       ">
-</div>
-
-
-
-
+<!-- ![alt text](./top.svg) -->
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm commers, a Thailand Web Developer 👋🏼:
 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying Computer engineering at chiangmai university<br>👨🏼‍💻 working as a codeapp ltd co. 2024 <br>🎬 just started out with my youtube channel <i>commers</i>
