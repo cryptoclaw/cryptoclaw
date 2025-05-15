@@ -2,11 +2,11 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
 <div style="position: relative; width: 100%; max-width: 1062px; margin: auto;">
   <!-- Bottom image (วิวธรรมชาติ) -->
-  <img src="./banner_github.png" alt="Bottom"
+  <img src="./top3.png" alt="Bottom"
        style="width: 100%; display: block;">
 
   <!-- Top image (Hey I'm Abhishek) -->
-  <img src="./top.svg" alt="Top" 
+  <img src="./top2.png" alt="Top" 
        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 2; pointer-events: none;">
 </div>
 
