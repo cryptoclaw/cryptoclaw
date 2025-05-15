@@ -1,8 +1,12 @@
 <!-- ![alt text](./top.svg)
 <img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
 <div class="container">
-    <img src="./top.svg" alt="Top" class="top-image">
-    <img src="banner_github.png" alt="Bottom" class="bottom-image">
+    <img src="./top.svg" alt="Top" position="absolute"
+      top="0"
+      left="0"
+      width="100%"
+      z-index="2">
+    <img src="banner_github.png" alt="Bottom" width="100%" display="block">
   </div>
 
 # Hello World!, I'm commers, a Thailand Web Developer 👋🏼:
