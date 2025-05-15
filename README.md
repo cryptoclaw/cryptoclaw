@@ -1,14 +1,15 @@
 <!-- ![alt text](./top.svg)
 <img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
-<div style="position: relative; width: 100%; max-width: 1062px; margin: auto;">
-  <!-- Bottom image (วิวธรรมชาติ) -->
-  <img src="./top3.png" alt="Bottom"
+<div style="position: relative; width: 100%; max-width: 2019px; margin: auto;">
+  <!-- ภาพพื้นหลัง (วิวภูเขา) -->
+  <img src="./top3.png" alt="Background" 
        style="width: 100%; display: block;">
 
-  <!-- Top image (Hey I'm Abhishek) -->
-  <img src="./top2.png" alt="Top" 
-       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 2; pointer-events: none;">
+  <!-- คลื่นม่วง (อยู่ด้านบน) -->
+  <img src="./top2.png" alt="Wave Overlay"
+       style="position: absolute; top: 0; left: 0; width: 100%; height: auto; z-index: 2;">
 </div>
+
 
 
 
