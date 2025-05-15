@@ -1,5 +1,9 @@
-![alt text](./top.svg)
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<!-- ![alt text](./top.svg)
+<img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
+<div class="container">
+    <img src="./top.svg" alt="Top" class="top-image">
+    <img src="banner_github.png" alt="Bottom" class="bottom-image">
+  </div>
 
 # Hello World!, I'm commers, a Thailand Web Developer 👋🏼:
 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying Computer engineering at chiangmai university<br>👨🏼‍💻 working as a codeapp ltd co. 2024 <br>🎬 just started out with my youtube channel <i>commers</i>
