@@ -50,14 +50,8 @@
   <!-- ฝั่งขวา: รูปภาพ -->
   <div style="flex-shrink: 0;">
     <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjMxYnlwejAyY3d1ejM2NnhobXBhc2FjaWs5a3VlYzZ1ajd1bTJvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tgFEc3UjgE14TJa7TC/giphy.gif" alt="Tech Image">
-  </div>
-  <div style="flex-shrink: 0;">
     <img height="150" src="https://media.giphy.com/media/aZy20NTYLaS9upf9O2/giphy.gif?cid=ecf05e47p5k9ioailunr5olv8a52xfc6tz1ols4fme4yrd6u&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Tech Image">
-  </div>
-  <div style="flex-shrink: 0;">
     <img height="150" src="https://media.giphy.com/media/Rk6IMQKg4NCNjxggGd/giphy.gif?cid=ecf05e47p5k9ioailunr5olv8a52xfc6tz1ols4fme4yrd6u&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Tech Image">
-  </div>
-  <div style="flex-shrink: 0;">
     <img height="150" src="https://media.giphy.com/media/3o6wrmwHYVAz7Q4wTK/giphy.gif?cid=ecf05e47aozy3c4qo307gthdz17cwbrldv3khhlwfehj4bsi&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Tech Image">
   </div>
 
