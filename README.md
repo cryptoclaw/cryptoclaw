@@ -1,3 +1,4 @@
+![alt text](./top.svg)
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm commers, a Thailand Web Developer 👋🏼:
@@ -59,3 +60,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+![alt text](./bottom.svg)
