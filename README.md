@@ -1,14 +1,24 @@
 <!-- ![alt text](./top.svg)
 <img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
-<div style="position: relative; width: 100%; max-width: 2019px; margin: auto;">
-  <!-- ภาพพื้นหลัง (วิวภูเขา) -->
-  <img src="./top3.png" alt="Background" 
+<div style="position: relative; width: 100%; max-width: 2051px; margin: auto;">
+  <!-- ภาพวิวด้านล่าง -->
+  <img src="./top3.png" alt="Background"
        style="width: 100%; display: block;">
 
-  <!-- คลื่นม่วง (อยู่ด้านบน) -->
-  <img src="./top2.png" alt="Wave Overlay"
-       style="position: absolute; top: 0; left: 0; width: 100%; height: auto; z-index: 2;">
+  <!-- คลื่นด้านบน (ใช้เฉพาะคลื่น มองทะลุได้ส่วนอื่น) -->
+  <img src="./top2.png" alt="Wave overlay"
+       style="
+         position: absolute;
+         top: 0;
+         left: 0;
+         width: 100%;
+         height: auto;
+         z-index: 2;
+         mix-blend-mode: multiply;
+         opacity: 1;
+       ">
 </div>
+
 
 
 
