@@ -3,7 +3,7 @@
 <div style="position: relative; width: 100%; max-width: 2051px; margin: auto;">
   <!-- ภาพวิวด้านล่าง -->
   <img src="./top3.png" alt="Background"
-       style="width: 100%; display: block;">
+       style="position: absolute; width: 100%; display: block; z-index 1;">
 
   <!-- คลื่นด้านบน (ใช้เฉพาะคลื่น มองทะลุได้ส่วนอื่น) -->
   <img src="./top2.png" alt="Wave overlay"
