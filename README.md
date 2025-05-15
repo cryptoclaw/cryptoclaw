@@ -10,7 +10,6 @@
   <img src="./top2.png" 
        style="
          position: absolute;
-         z-index: 2;
          opacity: 1;
        ">
 </div>
