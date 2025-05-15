@@ -3,6 +3,10 @@
 <!-- ![alt text](./top.svg) -->
 <!-- <img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
 
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+cryptoclaw" alt="Typing SVG" /></a>
+</h1>
+
 # Hello World!, I'm commers, a Thailand Web Developer 👋🏼:
 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying Computer engineering at chiangmai university<br>👨🏼‍💻 working as a codeapp ltd co. 2024 <br>🎬 just started out with my youtube channel <i>commers</i>
 
