@@ -1,12 +1,12 @@
 <!-- ![alt text](./top.svg)
 <img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
-<div style="position: relative; width: 100%; max-width: 2051px; margin: auto;">
+<div style="position: relative; width: 100%; max-width: 2050px; margin: auto;">
   <!-- ภาพวิวด้านล่าง -->
-  <img src="./top3.png" alt="Background"
-       style="position: absolute; width: 100%; display: block; z-index 1;">
+  <img src="./top3.png" 
+       style="position: absolute; width: 100%; z-index 1;">
 
   <!-- คลื่นด้านบน (ใช้เฉพาะคลื่น มองทะลุได้ส่วนอื่น) -->
-  <img src="./top2.png" alt="Wave overlay"
+  <img src="./top2.png" 
        style="
          position: absolute;
          top: 0;
