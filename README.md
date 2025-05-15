@@ -6,9 +6,9 @@
 
 
 <!-- <img align="right" height="300" wide="300" src="https://i.imgflip.com/65efzo.gif"  /> -->
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="display: flex; align-items: flex-start; gap: 12px; flex-wrap: nowrap; width: 100%;">
   <!-- ฝั่งซ้าย: Tech Stack -->
-  <div style="flex: 0.3; max-width: 30%;">
+  <div style="flex: 1; text-align: right;">
     <h1>💻 Tech Stack:</h1>
     <p>
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
