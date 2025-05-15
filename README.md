@@ -1,7 +1,7 @@
 <!-- ![alt text](./top.svg)
 <img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
 
-<div style="position: relative; width: 100%; max-width: 2050px; margin: auto;">
+<div style="position: relative; width: 100%; margin: auto;">
   <!-- ภาพวิวด้านล่าง -->
   <img src="./top3.png" 
        style="position: absolute; z-index 1;">
