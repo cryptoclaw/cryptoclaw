@@ -4,7 +4,7 @@
 <!-- <img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+cryptoclaw" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+cryptoclaw" alt="Typing SVG" /></a>
 </h1>
 
 <h1 align="center">
