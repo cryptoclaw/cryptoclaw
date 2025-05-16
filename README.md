@@ -249,7 +249,7 @@
       <br>Redux
     </td>
  </tr>
-    <img align="right" alt="GIF" src="https://github.com/Aquarius-blake/Images/blob/main/Profile/gifs/programmer.gif" width="350" />
+    
 </table>
     </p>
   </div>
