@@ -54,8 +54,7 @@
       <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
     -->
 
-    <!-- align="center" --> 
-  <table >
+  <table align="center" >
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
@@ -250,6 +249,7 @@
       <br>Redux
     </td>
  </tr>
+    <img align="right" alt="GIF" src="https://github.com/Aquarius-blake/Images/blob/main/Profile/gifs/programmer.gif" width="350" />
 </table>
     </p>
   </div>
