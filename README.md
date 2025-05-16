@@ -10,8 +10,10 @@
 # Hello World!, I'm commers, a Thailand Web Developer 👋🏼:
 
 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying Computer engineering at chiangmai university<br>👨🏼‍💻 working as a codeapp ltd co. 2024 <br>🎬 just started out with my youtube channel <i>commers</i>
+
 <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="100">
 <!-- <img align="right" height="300" wide="300" src="https://i.imgflip.com/65efzo.gif"  /> -->
+
 <div style="display: flex; align-items: flex-start; gap: 12px; flex-wrap: nowrap; width: 100%;">
   <!-- ฝั่งซ้าย: Tech Stack -->
   <div style="flex: 1; text-align: right;">
