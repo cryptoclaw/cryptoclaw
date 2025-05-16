@@ -68,6 +68,20 @@
   <!-- คัดลอกบรรทัดนี้หลาย ๆ รอบ -->
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f495/512.gif" alt="💕" width="32" height="32">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f495/512.gif" alt="💕" width="32" height="32">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f495/512.gif" alt="💕" width="32" height="32">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f495/512.gif" alt="💕" width="32" height="32">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f495/512.gif" alt="💕" width="32" height="32">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f495/512.gif" alt="💕" width="32" height="32">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f495/512.gif" alt="💕" width="32" height="32">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f495/512.gif" alt="💕" width="32" height="32">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f495/512.gif" alt="💕" width="32" height="32">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f495/512.gif" alt="💕" width="32" height="32">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f495/512.gif" alt="💕" width="32" height="32">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f495/512.gif" alt="💕" width="32" height="32">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f495/512.gif" alt="💕" width="32" height="32">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f495/512.gif" alt="💕" width="32" height="32">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f495/512.gif" alt="💕" width="32" height="32">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f495/512.gif" alt="💕" width="32" height="32">
   <!-- ซ้ำไปเรื่อย ๆ -->
 </h1>
 
