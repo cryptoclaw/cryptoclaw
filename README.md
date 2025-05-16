@@ -68,11 +68,10 @@
 </br>
 <a href="https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Now playing on Spotify" ></a>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/6eUKZXaKkcviH0Ku9w2n3V?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <details>
     <summary>Recently played</summary>
-    <a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31lnn6iv3gugv4kpc2mjusnwv7cq&unique=true&count=10" alt="Spotify recently played"></a>
+    <a href="https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"><img src="https://open.spotify.com/embed/artist/6eUKZXaKkcviH0Ku9w2n3V?utm_source=generator" alt="Spotify recently played"></a>
 </details>
 
 <h1 align="center">
