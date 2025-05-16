@@ -64,15 +64,16 @@
 ">
 </h1>
 
-<h2>:notes: Now playing Ed Sheeran</h2>
+<h2>:notes: Now playing <!-- <a href="https://www.last.fm/user/carol-helo"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Last+song+I've+listened+to"></a></h2>-->
 </br>
-<a href="https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=ed_sheeran_badge&cover_image=true&theme=novatorem&bar_color=7E3ACE&bar_color_cover=false" alt="Ed Sheeran Top Tracks on Spotify">
-</a>
+<a href="https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Now playing on Spotify" ></a>
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/6eUKZXaKkcviH0Ku9w2n3V?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-
-
+<details>
+    <summary>Recently played</summary>
+    <a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31lnn6iv3gugv4kpc2mjusnwv7cq&unique=true&count=10" alt="Spotify recently played"></a>
+</details>
 
 <h1 align="center">
   <!-- คัดลอกบรรทัดนี้หลาย ๆ รอบ -->
