@@ -394,6 +394,30 @@
 
 </div>
 
+```TypeScript
+From: 14 April 2025 - To: 14 May 2025
+
+Total Time: 35 hrs 26 mins
+
+TypeScript   24 hrs 34 mins  █████████████████▒░░░░░░░   69.36 %
+Python       4 hrs 43 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 %
+C            2 hrs 40 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+Markdown     1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+Other        37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Text         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+JSON         27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+XML          13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Bash         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+PowerShell   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <p><img align="center" src="https://github.com/Aquarius-blake/Aquarius-blake/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Aquarius Blake" ></p>
 
 <picture>
