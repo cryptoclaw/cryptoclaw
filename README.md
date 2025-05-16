@@ -11,9 +11,6 @@
 
 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying Computer engineering at chiangmai university<br>👨🏼‍💻 working as a codeapp ltd co. 2024 <br>🎬 just started out with my youtube channel <i>commers</i>
 
-  <div alige="center">
-          <img align="right" alt="GIF" src="https://github.com/Aquarius-blake/Images/blob/main/Profile/gifs/programmer.gif" width="350" />
-  </div>
 <!-- <img align="right" height="300" wide="300" src="https://i.imgflip.com/65efzo.gif"  /> -->
 <div style="display: flex; align-items: flex-start; gap: 12px; flex-wrap: nowrap; width: 100%;">
   <!-- ฝั่งซ้าย: Tech Stack -->
@@ -271,6 +268,10 @@
     <summary>Recently played</summary>
     <a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31lnn6iv3gugv4kpc2mjusnwv7cq&unique=true&count=10" alt="Spotify recently played"></a>
 </details>
+
+ <div alige="center">
+          <img align="right" alt="GIF" src="https://github.com/Aquarius-blake/Images/blob/main/Profile/gifs/programmer.gif" width="350" />
+  </div>
 
 <h1 align="center">
   <!-- คัดลอกบรรทัดนี้หลาย ๆ รอบ -->
