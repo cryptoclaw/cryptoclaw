@@ -64,21 +64,13 @@
 ">
 </h1>
 
-<h2>:notes: Now playing from Ed Sheeran
-<!-- <a href="https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"><img alt="Top songs by Ed Sheeran" src="https://badges.lastfm.workers.dev/last-played?user=edsheeran&color=7E3ACE&logoColor=7E3ACE&label=Top+Ed+Sheeran+Songs"></a> -->
-</h2>
+<h2>:notes: Now playing Ed Sheeran</h2>
 </br>
-
 <a href="https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V">
-  <iframe style="border-radius:12px" 
-          src="https://open.spotify.com/embed/artist/6eUKZXaKkcviH0Ku9w2n3V" 
-          width="100%" 
-          height="380" 
-          frameborder="0" 
-          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-          loading="lazy">
-  </iframe>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=ed_sheeran_badge&cover_image=true&theme=novatorem&bar_color=7E3ACE&bar_color_cover=false" alt="Ed Sheeran Top Tracks on Spotify">
 </a>
+
+
 
 
 
