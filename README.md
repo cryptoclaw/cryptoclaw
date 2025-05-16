@@ -7,15 +7,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+cryptoclaw" alt="Typing SVG" /></a>
 </h1>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+cryptoclaw" />
-</h1>
-
 # Hello World!, I'm commers, a Thailand Web Developer 👋🏼:
+
 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying Computer engineering at chiangmai university<br>👨🏼‍💻 working as a codeapp ltd co. 2024 <br>🎬 just started out with my youtube channel <i>commers</i>
 
-
-
+  <div alige="center">
+          <img align="right" alt="GIF" src="https://github.com/Aquarius-blake/Images/blob/main/Profile/gifs/programmer.gif" width="350" />
+  </div>
 <!-- <img align="right" height="300" wide="300" src="https://i.imgflip.com/65efzo.gif"  /> -->
 <div style="display: flex; align-items: flex-start; gap: 12px; flex-wrap: nowrap; width: 100%;">
   <!-- ฝั่งซ้าย: Tech Stack -->
@@ -57,18 +55,118 @@
     </p>
   </div>
 
+<h1 align="center" id="emoji-container"></h1>
+
+<script>
+  const container = document.getElementById("emoji-container");
+  const count = 24; // จำนวนที่ต้องการแสดง
+  const emojiHTML = `
+    <picture>
+      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f495/512.webp" type="image/webp">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f495/512.gif" alt="💕" width="32" height="32">
+    </picture>
+  `;
+
+  for (let i = 0; i < count; i++) {
+    container.innerHTML += emojiHTML;
+  }
+</script>
+
   <!-- ฝั่งขวา: รูปภาพ -->
-  <div style="flex-shrink: 0;">
+  <div style="flex-shrink: 0;" align="center">
     <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjMxYnlwejAyY3d1ejM2NnhobXBhc2FjaWs5a3VlYzZ1ajd1bTJvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tgFEc3UjgE14TJa7TC/giphy.gif" alt="Tech Image">
     <img height="150" src="https://media.giphy.com/media/aZy20NTYLaS9upf9O2/giphy.gif?cid=ecf05e47p5k9ioailunr5olv8a52xfc6tz1ols4fme4yrd6u&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Tech Image">
     <img height="150" src="https://media.giphy.com/media/Rk6IMQKg4NCNjxggGd/giphy.gif?cid=ecf05e47p5k9ioailunr5olv8a52xfc6tz1ols4fme4yrd6u&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Tech Image">
     <img height="150" src="https://media.giphy.com/media/3o6wrmwHYVAz7Q4wTK/giphy.gif?cid=ecf05e47aozy3c4qo307gthdz17cwbrldv3khhlwfehj4bsi&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Tech Image">
   </div>
 
+<h1 align="center">
+  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="32" height="32">
+</picture>
+  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="32" height="32">
+</picture>
+  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="32" height="32">
+</picture>
+  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="32" height="32">
+</picture>
+  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="32" height="32">
+</picture>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="32" height="32">
+</picture>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="32" height="32">
+</picture>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="32" height="32">
+</picture>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="32" height="32">
+</picture>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="32" height="32">
+</picture>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="32" height="32">
+</picture>
+  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="32" height="32">
+</picture>
+  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="32" height="32">
+</picture>
+  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="32" height="32">
+</picture>
+  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="32" height="32">
+</picture>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="32" height="32">
+</picture>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="32" height="32">
+</picture>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="32" height="32">
+</picture>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="32" height="32">
+</picture>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="32" height="32">
+</picture>
+  
+</h1>
 
 </div>
 
-
+<p><img align="center" src="https://github.com/Aquarius-blake/Aquarius-blake/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Aquarius Blake" ></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
