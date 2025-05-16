@@ -55,22 +55,21 @@
     </p>
   </div>
 
-<h1 align="center" id="emoji-container"></h1>
+<h1 align="center" style="
+  display: inline-block;
+  width: calc(32px * 24);
+  height: 32px;
+  background-image: url('https://fonts.gstatic.com/s/e/notoemoji/latest/1f495/512.gif');
+  background-repeat: repeat-x;
+">
+</h1>
 
-<script>
-  const container = document.getElementById("emoji-container");
-  const count = 24; // จำนวนที่ต้องการแสดง
-  const emojiHTML = `
-    <picture>
-      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f495/512.webp" type="image/webp">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f495/512.gif" alt="💕" width="32" height="32">
-    </picture>
-  `;
-
-  for (let i = 0; i < count; i++) {
-    container.innerHTML += emojiHTML;
-  }
-</script>
+<h1 align="center">
+  <!-- คัดลอกบรรทัดนี้หลาย ๆ รอบ -->
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f495/512.gif" alt="💕" width="32" height="32">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f495/512.gif" alt="💕" width="32" height="32">
+  <!-- ซ้ำไปเรื่อย ๆ -->
+</h1>
 
   <!-- ฝั่งขวา: รูปภาพ -->
   <div style="flex-shrink: 0;" align="center">
