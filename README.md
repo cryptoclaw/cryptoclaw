@@ -395,6 +395,18 @@
   
 </h1>
 
+<div align="center" id="aliens"></div>
+
+<script>
+  const container = document.getElementById("aliens");
+  for (let i = 0; i < 10; i++) {
+    const img = document.createElement("img");
+    img.src = "https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif";
+    img.width = 40;
+    container.appendChild(img);
+  }
+</script>
+
 </div>
 
 ```TypeScript
