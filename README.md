@@ -265,35 +265,45 @@
 ">
 </h1>
 
-<h2 align="center">🎧 Now Playing</h2>
+<h2>🎧 Now Playing</h2>
 
-<p align="center">
-  <a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq">
-    <img 
-      src="https://github.com/user-attachments/assets/c7982d8e-bc24-47bb-8092-7ddb48a47c28" 
-      alt="Now playing on Spotify"
-      width="400"
-    />
-  </a>
-</p>
+<table>
+  <tr>
+    <!-- LEFT: Spotify -->
+    <td width="60%" valign="top">
 
-<p align="center">
+<a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq">
   <img 
-    src="https://github.com/Aquarius-blake/Images/blob/main/Profile/gifs/programmer.gif" 
-    width="220"
+    src="https://github.com/user-attachments/assets/c7982d8e-bc24-47bb-8092-7ddb48a47c28" 
+    alt="Now playing on Spotify"
+    width="100%"
   />
-</p>
+</a>
 
-<details align="center">
+<br><br>
+
+<details>
   <summary>📀 Recently played</summary>
   <br>
-  <p align="center">
-    <img 
-      src="https://spotify-recently-played-readme.vercel.app/api?user=31lnn6iv3gugv4kpc2mjusnwv7cq&unique=true&count=10" 
-      width="500"
-    />
-  </p>
+  <img 
+    src="https://spotify-recently-played-readme.vercel.app/api?user=31lnn6iv3gugv4kpc2mjusnwv7cq&unique=true&count=10" 
+    width="100%"
+  />
 </details>
+
+    </td>
+
+    <!-- RIGHT: GIF -->
+    <td width="40%" align="right" valign="top">
+
+<img 
+  src="https://github.com/Aquarius-blake/Images/blob/main/Profile/gifs/programmer.gif" 
+  width="220"
+/>
+
+    </td>
+  </tr>
+</table>
 
  
 
