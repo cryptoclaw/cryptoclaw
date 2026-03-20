@@ -265,31 +265,7 @@
 ">
 </h1>
 
-<h2>🎧 Now Playing</h2>
-
-<table>
-  <tr>
-    <!-- LEFT: Spotify -->
-    <td width="60%" valign="top">
-
-<a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq">
-  <img 
-    src="https://github.com/user-attachments/assets/c7982d8e-bc24-47bb-8092-7ddb48a47c28" 
-    alt="Now playing on Spotify"
-    width="100%"
-  />
-</a>
-
-<br><br>
-
-<details>
-  <summary>📀 Recently played</summary>
-  <br>
-  <img 
-    src="https://spotify-recently-played-readme.vercel.app/api?user=31lnn6iv3gugv4kpc2mjusnwv7cq&unique=true&count=10" 
-    width="100%"
-  />
-</details>
+<img align="right" alt="GIF" src="https://github.com/Aquarius-blake/Images/blob/main/Profile/gifs/programmer.gif" width="240" /> <h2>:notes: Now playing <!-- <a href="https://www.last.fm/user/carol-helo"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Last+song+I've+listened+to"></a></h2>--> </br> <a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://github.com/user-attachments/assets/c7982d8e-bc24-47bb-8092-7ddb48a47c28" alt="Now playing on Spotify" ></a> <details> <summary>Recently played</summary> <a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31lnn6iv3gugv4kpc2mjusnwv7cq&unique=true&count=10" alt="Spotify recently played"></a> </details>
 
     </td>
 
