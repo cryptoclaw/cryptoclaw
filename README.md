@@ -1,6 +1,7 @@
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9bc27292880429.5e569ff84e4d0.gif" />
+<img src="https://github.com/user-attachments/assets/337cb65f-fde9-4627-916c-f7f417e5f6cb" />
 </div>
+
 
 <!-- ![alt text](./top.svg) -->
 <!-- <img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
