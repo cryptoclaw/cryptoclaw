@@ -1,5 +1,6 @@
-[<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/24d150bf-d37d-42d1-b756-dc542acfc6a6" />
-](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBsNnU4b20xaXE5azV4ZDgxamc4aDYyNWFxNWl6NjNpMXE1bjZiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/9bc27292880429.5e569ff84e4d0.gif" alt="loading" />
+</div>
 
 <!-- ![alt text](./top.svg) -->
 <!-- <img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
